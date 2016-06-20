@@ -1,5 +1,6 @@
 // Java class are normally (always) in so called packages, but in this
-// exercise we skip that
+// exercise we skip that 
+
 
 public class Testing { 
 
